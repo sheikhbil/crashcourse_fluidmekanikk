@@ -1,6 +1,6 @@
 # TEP4100 Fluidmekanikk — Kræsjkurs Vår 2026
 
-127 sider håndskrevne notater laget til Teknas kræsjkurs i Fluidmekanikk ved NTNU. Bygget av Bilal Sheikh basert på åpent tilgjengelige eksamensoppgaver (2010–2025), øvinger og løsningsforslag fra faget — uten å ha tatt kurset selv.
+håndskrevne notater laget til kræsjkurs i Fluidmekanikk ved NTNU. Bygget av Bilal Sheikh.
 
 ## Last ned
 
@@ -39,6 +39,3 @@ Spørsmål eller tilbakemeldinger? Ta gjerne kontakt på **bilalgood92@gmail.com
 
 > **NB:** Alt er skrevet og regnet for hånd. Jeg kan ikke garantere at alt er feilfritt — bruk notatene som et supplement, ikke som fasit.
 
----
-
-*Tekna kræsjkurs — NTNU TEP4100 Vår 2026*
