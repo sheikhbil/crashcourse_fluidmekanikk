@@ -4,10 +4,7 @@ håndskrevne notater laget til kræsjkurs i Fluidmekanikk ved NTNU. Bygget av Bi
 
 ## Last ned
 
-| Versjon | Beskrivelse | Lenke |
-|---|---|---|
-| **Med innholdsfortegnelse** | Full versjon med klikbar outline — stor fil! | [Last ned (Google Drive)](https://drive.google.com/file/d/1sK-ZhN0h53kHFAyJvIA4SZmbMI_fvqRA/view?usp=sharing) |
-| **Flat PDF** | Samme innhold, ingen outline — raskere å laste ned | [Last ned (Google Drive)](https://drive.google.com/file/d/1ySWY7pSLw441LH1ZF7zrCRaw25Y2J7FX/view?usp=sharing) |
+ | https://drive.google.com/file/d/15umViiAc4yDkw6b3NKbGLEbi5up8Vgss/view?usp=sharing |
 
 
 ## Innhold
